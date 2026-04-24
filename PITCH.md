@@ -32,22 +32,22 @@
 
 ---
 
-## 🎯 Público-Alvo
-* **Perfil**: Jovem, masculino, ensino superior, renda até R$ 3.000.
-* **Faixa Etária**: Predominante entre 36-45 anos (35-44%) e 25-35 anos (20-25%).
-* **Escolaridade**: ~60% com ensino superior.
-* **Fonte dos dados**: FGV e Hotmart.
+## 🎯 Público-Alvo:
+* Jovem.
+* Masculino.
+* Com ensino superior.
+* Renda até R$3.000,00.
 
 ---
 
-## 📈 Relevância
+## 📈 Relevância:
 * **Ascensão Social**: Atua como método de ascensão social e educação digital, combatendo a desinformação.
 * **Gestão de Risco**: Monitoramento de ROI em tempo real para controle de gastos.
 * **Modelos de Assinatura**: Opções de assinatura fixa ou cobrança por performance.
 
 ---
 
-## ⚙️ Viabilidade
+## ⚙️ Viabilidade:
 * **Técnica**: Django, Python, PostgreSQL, JavaScript.
 * **Legal**: Criptografia de dados e conformidade com a LGPD.
 * **Operacional**: Dashboard unificado e automação de remarketing.
