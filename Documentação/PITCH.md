@@ -1,6 +1,6 @@
 # AffiliMetrics
 
-## 💡 Sobre o Projeto
+## Sobre o Projeto
 **Tema**: Tudo que um afiliado precisa em uma única plataforma.
 
 ### O que é um Afiliado?
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Problemas e Soluções
+## Problemas e Soluções
  **Otimização de Tempo**: Centralização de tarefas para evitar perdas de tempo.
 
  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🎯 Público-Alvo:
+## Público-Alvo:
 * Jovem.
 * Masculino.
 * Com ensino superior.
@@ -40,14 +40,14 @@
 
 ---
 
-## 📈 Relevância:
+## Relevância:
 * **Ascensão Social**: Atua como método de ascensão social e educação digital, combatendo a desinformação.
 * **Gestão de Risco**: Monitoramento de ROI em tempo real para controle de gastos.
 * **Modelos de Assinatura**: Opções de assinatura fixa ou cobrança por performance.
 
 ---
 
-## ⚙️ Viabilidade:
+## Viabilidade:
 * **Técnica**: Django, Python, PostgreSQL, JavaScript.
 * **Legal**: Criptografia de dados e conformidade com a LGPD.
 * **Operacional**: Dashboard unificado e automação de remarketing.
