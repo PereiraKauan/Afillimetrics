@@ -3,6 +3,7 @@
 
 **Data:** 02/05/2026
 
+
 ## O que é o método SMART?
 
 
