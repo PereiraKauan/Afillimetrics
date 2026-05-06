@@ -1,7 +1,11 @@
-# Analise SMART  **Data:** 02/05/2026
+# Analise SMART  
 
+
+**Data:** 02/05/2026
 
 ## O que é o método SMART?
+
+
 | Critério | Significado | Pergunta |
 |----------|-------------|----------|
 | **S** | Específico | O que de fato será feito? |
