@@ -119,27 +119,4 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
-
-
-# Configurações de autenticação
-LOGIN_URL = 'meu_app:login'
-LOGIN_REDIRECT_URL = 'meu_app:dashboard'
-LOGOUT_REDIRECT_URL = 'meu_app:landing_page'
-
-# Configuração de sessão (para "lembrar de mim")
-SESSION_COOKIE_AGE = 1209600  # 2 semanas em segundos
-SESSION_SAVE_EVERY_REQUEST = True
-
-# Configuração de mensagens
-from django.contrib.messages import constants as messages
-MESSAGE_TAGS = {
-    messages.ERROR: 'error',
-    messages.SUCCESS: 'success',
-    messages.INFO: 'info',
-}
-
-
-
 STATIC_URL = 'static/'
-
-

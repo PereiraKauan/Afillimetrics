@@ -1,68 +1,71 @@
-*{
-    margin: 0px;
-    padding: 0px;
+body{
+    margin:0;
+    font-family:Arial;
+    background:#F5F7FA;
 }
 
-header{
-    background-color: rgb(51, 255, 0);
-    padding: 25px;
-    color: white;
-    text-align: left;
-    margin: 15px;
-    border-radius: 15px;
-    justify-items: center;
-    justify-content: space-around;
-    display: inline-flex;
-    width: 90%;
-    
-    
+.header{
+    display:flex;
+    justify-content:space-between;
+    padding:20px 60px;
+    background:white;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 50px;
-    background-color: #f0f0f0;
-}
-h1 {
-    color: #2c3e50;
-}
-.container {
-    background: white;
-  
-    border-radius: 10px;
-    
-    margin: auto;
-    margin-bottom: 20px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.1);
-    display: grid;
-    grid-template-columns: auto auto;
-    gap: 50px;
-    width: 80%;
+.hero{
+    text-align:center;
+    padding:120px 20px;
 }
 
-.lead{
-    background-color: rgb(255, 255, 255);
-    padding: 25px;
-    color: purple;
-    text-align: left;
-    margin: 15px;
-    border-radius: 15px;
-    justify-items: center;
-    justify-content: space-around;
-    display: inline-flex;
-    width: 90%;
+.btn{
+    background:#2B7AEC;
+    color:white;
+    padding:10px 20px;
+    border-radius:8px;
+    text-decoration:none;
 }
 
-.container2 {
-    background: white;
-    margin-top: 50px;
-    border-radius: 10px;
-    
-    margin: auto;
-    box-shadow: 0 0 5px rgba(0,0,0,0.1);
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    gap: 50px;
-    width: 80%;
+.btn-green{
+    background:#2ECC71;
+    color:white;
+    padding:12px 24px;
+    border-radius:8px;
+    text-decoration:none;
+}
+
+.login-container{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.login-card{
+    background:white;
+    padding:40px;
+    border-radius:16px;
+    display:flex;
+    flex-direction:column;
+    gap:16px;
+}
+
+.dashboard{
+    display:flex;
+}
+
+.sidebar{
+    width:250px;
+    background:white;
+    height:100vh;
+    padding:20px;
+}
+
+.content{
+    flex:1;
+    padding:30px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:16px;
 }
